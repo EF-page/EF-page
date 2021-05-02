@@ -1,4 +1,4 @@
-# This is the repository of EF-page
+# This is the repository of EFpage
 
 Some of my work is published on www.efpage.de, which is my personal, non commercial, home page. Some of my tools are published here, most successuflly a smart picture resizer called TinyPic. Your can reach out via info@efpage to send a meassage.
 
